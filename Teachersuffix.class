@@ -1,0 +1,4 @@
+packge test.andann.compile;
+public interface Teachersuffix {
+ void walk();
+}
